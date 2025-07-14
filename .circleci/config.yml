@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout # check out the code in the project directory
       - run: 
-         name: "This is test run"
+         name: "test run"
          command: "echo Hello world"
 
 
